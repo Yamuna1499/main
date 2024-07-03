@@ -1,1 +1,7 @@
 hello good morning
+[200~AWS local zone VS AWS wavelength zone
+
+local zones as an extension of aws region to place resources in multiple location that is close to your end users
+
+wavelength zone to build applications that deliver ultra low latencies to the end user
+
